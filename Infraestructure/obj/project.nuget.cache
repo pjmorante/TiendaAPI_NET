@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+ZdjQd4fJw/a/r2HLBwmnxJL/0KgmhkIAVgPF4HZan0FFMeXc2oZ82xU2v7egcqQjs76NjB8Pye2KWrHw7RteQ==",
+  "dgSpecHash": "o4IwJlcs1XJgNeW3Z9j9ylRI+KzHqHmB3uoRANEbcjIja3JzXTs6pHEZL7PYRrP9n/XHL6UviHKx5yEKRhuWSQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\pedro\\Documents\\cSharp\\udemy\\tienda\\Infraestructure\\Infraestructure.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\pedro\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
     "C:\\Users\\pedro\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.7\\microsoft.entityframeworkcore.6.0.7.nupkg.sha512",
     "C:\\Users\\pedro\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.7\\microsoft.entityframeworkcore.abstractions.6.0.7.nupkg.sha512",
     "C:\\Users\\pedro\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.7\\microsoft.entityframeworkcore.analyzers.6.0.7.nupkg.sha512",
